@@ -337,7 +337,7 @@
 				<Title>favelas</Title>
 				<Abstract>GH:favelas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸16</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸19</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-35.2889565521353" miny="-5.892636948831985" maxx="-35.173326612772016" maxy="-5.714385146242251"></LatLonBoundingBox>
