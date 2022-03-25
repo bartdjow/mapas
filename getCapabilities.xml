@@ -337,7 +337,7 @@
 				<Title>117_zn</Title>
 				<Abstract>GH:117_zn ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸20</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-35.29145137287343" miny="-5.789046161778864" maxx="-35.19551390133848" maxy="-5.7026231065241815"></LatLonBoundingBox>
